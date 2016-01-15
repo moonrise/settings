@@ -1,0 +1,87 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/JavaScript Console" timestamp="1452817263698">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1452818157011">
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="0" column="35" />
+        <mark key="^" line="0" column="35" />
+        <mark key="." line="0" column="35" />
+      </file>
+      <file name="/a.dummy" timestamp="1452818773206">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1452818110316">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/dev/gitbj/mmpoc/app/app.component.ts" timestamp="1452797403905">
+        <mark key="'" line="16" column="21" />
+        <mark key="[" line="78" column="28" />
+        <mark key="]" line="78" column="29" />
+        <mark key="." line="78" column="29" />
+        <mark key="^" line="78" column="31" />
+      </file>
+      <file name="www.jetbrains.com/webstorm/help/viewing-html-source-code-of-a-web-page-in-the-editor.html" timestamp="1452818013305" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch-x" timestamp="1452818897078" />
+      <file name="$USER_HOME$/dev/gitbj/mmpoc/tsconfig.json" timestamp="1452734334040">
+        <mark key="'" line="6" column="8" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="6" column="8" filename="$USER_HOME$/dev/gitbj/mmpoc/tsconfig.json" />
+      <jump line="11" column="17" filename="$USER_HOME$/dev/gitbj/mmpoc/app/app.component.ts" />
+      <jump line="64" column="32" filename="$USER_HOME$/dev/gitbj/mmpoc/app/app.component.ts" />
+      <jump line="16" column="21" filename="$USER_HOME$/dev/gitbj/mmpoc/app/app.component.ts" />
+    </jumps>
+    <registers>
+      <register name="1" type="4">
+        <text>xyz</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>xyz</text>
+      </register>
+      <register name="2" type="4">
+        <text>Heroes</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">b2Yg</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="5" type="4">
+        <text>Tour</text>
+      </register>
+      <register name="-" type="4">
+        <text>xyz</text>
+      </register>
+      <register name="/" type="4">
+        <text>mm p</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>mm p</last-search>
+      <last-offset />
+      <last-pattern>mm p</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">VG91ciA=</entry>
+        <entry>mm p</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>
